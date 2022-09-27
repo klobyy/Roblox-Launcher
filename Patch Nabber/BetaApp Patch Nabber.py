@@ -28,7 +28,7 @@ else:
     littleTimmyPrevention()
     exit(1)
 
-repo = "lolmanurfunny/Roblox-Launcher-minus-the-app"
+repo = "klobyy/Roblox-Launcher"
 rpl = "RobloxPlayerLauncher.exe"
 latest = urlopen("https://raw.githubusercontent.com/"+repo+"/main/Custom%20Launcher/latest").read().decode().rstrip(linesep)
 #input(latest) # debuggerydoos
@@ -40,4 +40,4 @@ for _ in range(3,0,-1):
     system("title "+"Closing in "+_.__str__())
     print('.')
     sleep(1)
-exit(0) # now exiting with a non-non-zero value :D
+exit(0)
