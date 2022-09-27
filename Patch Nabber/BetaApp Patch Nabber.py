@@ -39,5 +39,5 @@ print("File is located @",download.__getitem__(0)+"\nThis window will close in 3
 for _ in range(3,0,-1):
     system("title "+"Closing in "+_.__str__())
     print('.')
-    sleep(1)
+    sleep(3)
 exit(0)
