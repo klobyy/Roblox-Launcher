@@ -1,6 +1,6 @@
 # Roblox-Launcher-minus-the-app Fork
 
-A custom-made Roblox Launcher. Why would I keep patching Roblox's abhorrent launcher, when I can build my own! 
+A custom-made Roblox Launcher.
 
 # Manual Instructions
 
