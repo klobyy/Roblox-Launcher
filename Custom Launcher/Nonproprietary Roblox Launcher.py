@@ -43,7 +43,7 @@ line = filepath+"\\RobloxPlayerBeta.exe "+args
 #os.system(line) <-- caused some headaches, couldn't close the window automatically
 print("Launching!")
 launcher = Popen(line)
-print("This window will close in 5 seconds.")
-sleep(5)
+print("This window will close in 1 second.")
+sleep(1)
 exit(0)
 # :)
