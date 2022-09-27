@@ -1,6 +1,6 @@
-#===============================================#
+#====================================================#
 #|  Nonproprietary Roblox Launcher   [v1.0.1 FORK]  |#
-#===============================================#
+#====================================================#
 from argparse import ArgumentParser
 from urllib.request import urlopen
 from urllib.parse import unquote
