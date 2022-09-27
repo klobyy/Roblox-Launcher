@@ -1,5 +1,5 @@
 #===============================================#
-#|  Nonproprietary Roblox Launcher   [v1.0.1]  |#
+#|  Nonproprietary Roblox Launcher   [v1.0.1 FORK]  |#
 #===============================================#
 from argparse import ArgumentParser
 from urllib.request import urlopen
